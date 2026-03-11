@@ -254,15 +254,15 @@ const NamePoll = () => {
           <p className={`${theme.fonts.body} text-stone-600 mb-8 max-w-xl mx-auto`}>
             We have narrowed down our favorite names for the baby, but we'd love to hear your thoughts. Vote for your favorite below!
           </p>
-          
+
           <div className="bg-stone-50 p-2 md:p-8 rounded-2xl shadow-inner border border-stone-200 overflow-hidden flex justify-center w-full max-w-full">
             <div className="w-full overflow-x-auto custom-scrollbar flex justify-center">
-              <iframe 
-                src="https://docs.google.com/forms/d/e/1FAIpQLSdBlN6FHKDSSJlwcfkD30Akm_Es-IkTFCm1-JGXdX13w6hhMw/viewform?embedded=true" 
-                width="640" 
-                height="583" 
-                frameBorder="0" 
-                marginHeight="0" 
+              <iframe
+                src="https://docs.google.com/forms/d/e/1FAIpQLSdBlN6FHKDSSJlwcfkD30Akm_Es-IkTFCm1-JGXdX13w6hhMw/viewform?embedded=true"
+                width="640"
+                height="583"
+                frameBorder="0"
+                marginHeight="0"
                 marginWidth="0"
                 className="max-w-full md:w-auto"
                 style={{ maxWidth: '100%' }}
